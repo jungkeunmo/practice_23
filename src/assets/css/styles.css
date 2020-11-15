@@ -1,0 +1,28 @@
+.box {
+    width: 100%;
+    height: 615px;
+
+    display: flex;
+    flex-direction: row
+}
+
+.box .box__col1 {
+    width: 20%;
+    height: 615px;
+
+    background-color: #7efff5;
+}
+
+.box .box__col2 {
+    width: 60%;
+    height: 615px;
+
+    background-color: #ffcccc;
+}
+
+.box .box__col3 {
+    width: 20%;
+    height: 615px;
+
+    background-color: #32ff7e;
+}
